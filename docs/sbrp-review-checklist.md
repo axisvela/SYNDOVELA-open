@@ -1,7 +1,7 @@
 # SBRP v1 Review Checklist
 
 Status: gate checklist. SBRP v1 may not be frozen until at least one
-runtime built independently of AxisRobo has completed this review.
+runtime built independently of AxisVela has completed this review.
 
 ## Why the gate exists
 
@@ -14,7 +14,7 @@ this repository.
 
 Read `docs/sbrp.md`, the schema at the SBRP v1 contract, and the
 conformance checklist, then attempt to implement or simulate each item
-below. Do not read any AxisRobo source.
+below. Do not read any AxisVela source.
 
 ## Runtime role
 
@@ -26,7 +26,7 @@ below. Do not read any AxisRobo source.
 | 4 | Is the fail-closed rule ("only ACTIVE accepts invocations") stated precisely enough to test? | |
 | 5 | Can you decide what `report` must contain after each operation? | |
 | 6 | Is the double-verification requirement implementable (re-verify digest locally)? | |
-| 7 | Is there any behaviour you could only learn by reading AxisRobo source? If so, which? | |
+| 7 | Is there any behaviour you could only learn by reading AxisVela source? If so, which? | |
 | 8 | Are the six mandatory rules each independently testable? | |
 
 ## Control plane role

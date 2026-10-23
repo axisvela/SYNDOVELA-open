@@ -1,8 +1,8 @@
 {
-  "apiVersion": "syndovela.axisrobo.io/v1",
+  "apiVersion": "syndovela.axisvela.io/v1",
   "kind": "Bundle",
   "metadata": {
-    "id": "axisrobo.identity-core",
+    "id": "axisvela.identity-core",
     "version": "3.4.1",
     "publisher": "enterprise.identity",
     "description": "Identity lookup and lifecycle skills for workforce operations."
