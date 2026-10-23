@@ -9,7 +9,7 @@ import { SyndovelaClient, PROTOCOL_VERSION } from "@axisvela/syndovela";
 const client = new SyndovelaClient("http://localhost:8080");
 
 await client.registerBundle({
-  apiVersion: "syndovela.axisrobo.io/v1",
+  apiVersion: "syndovela.axisvela.io/v1",
   kind: "Bundle",
   metadata: { id: "example.identity-core", version: "0.1.0", publisher: "example" },
   skills: [{ id: "identity.lookup", contract: "identity.lookup/v2", implementation: "0.1.0" }],

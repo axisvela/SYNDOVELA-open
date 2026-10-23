@@ -37,7 +37,7 @@ func main() {
 	fmt.Printf("connected to %s %s\n", health.Product, health.Version)
 
 	bundle := syndovela.Bundle{
-		APIVersion: "syndovela.axisrobo.io/v1",
+		APIVersion: "syndovela.axisvela.io/v1",
 		Kind:       "Bundle",
 		Metadata: syndovela.Metadata{
 			ID:        "example.identity-core",

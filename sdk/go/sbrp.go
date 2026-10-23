@@ -7,7 +7,7 @@ package syndovela
 // runtime authors can implement the protocol without depending on any
 // control-plane implementation.
 //
-// Implementing SBRP requires no relationship with AxisRobo and no use of
+// Implementing SBRP requires no relationship with AxisVela and no use of
 // AGPL source. The specification lives at contracts/sbrp/v1 in the core
 // repository.
 

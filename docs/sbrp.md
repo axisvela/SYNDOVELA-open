@@ -5,7 +5,7 @@ plane** and a **bundle runtime**.
 
 It exists so the Bundle format and the runtimes that execute it evolve
 independently. Implementing either side requires no relationship with
-AxisRobo and no use of AGPL-licensed source: the specification, the JSON
+AxisVela and no use of AGPL-licensed source: the specification, the JSON
 Schema and the Go types in this repository are Apache-2.0.
 
 ## Why a protocol rather than an integration

@@ -8,7 +8,7 @@
                          "created":  "2026-08-20T19:12:55Z",
                          "creators":  [
                                           "Tool: syndovela-release",
-                                          "Organization: AXISROBO"
+                                          "Organization: AXISVELA"
                                       ],
                          "licenseListVersion":  "3.20"
                      },
@@ -16,7 +16,7 @@
                      {
                          "name":  "syndovela-api.exe",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -26,12 +26,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-cli.exe",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -41,12 +41,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-mcp.exe",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -56,12 +56,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-migrate.exe",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -71,12 +71,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-rt.exe",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -86,12 +86,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-api",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -101,12 +101,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-cli",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -116,12 +116,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-mcp",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -131,12 +131,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-migrate",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -146,12 +146,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-rt",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -161,12 +161,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-api",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -176,12 +176,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-cli",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -191,12 +191,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-mcp",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -206,12 +206,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-migrate",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -221,12 +221,12 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      },
                      {
                          "name":  "syndovela-rt",
                          "versionInfo":  "1.1.0",
-                         "supplier":  "Organization: AXISROBO",
+                         "supplier":  "Organization: AXISVELA",
                          "downloadLocation":  "https://github.com/axisvela/SYNDOVELA-open/releases",
                          "filesAnalyzed":  true,
                          "checksums":  [
@@ -236,7 +236,7 @@
                                            }
                                        ],
                          "licenseConcluded":  "AGPL-3.0-or-later",
-                         "copyrightText":  "Copyright 2026 AXISROBO"
+                         "copyrightText":  "Copyright 2026 AXISVELA"
                      }
                  ],
     "relationships":  [
