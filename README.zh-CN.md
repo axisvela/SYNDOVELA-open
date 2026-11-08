@@ -44,6 +44,8 @@ SYNDOVELA 通过 **SBRP**（Skill Bundle Runtime Protocol）与运行时通信�
 
 参见 [`docs/sbrp.md`](docs/sbrp.md) 和 [`docs/conformance.md`](docs/conformance.md)。
 
+SYNDOVELA 保留 Bundle、RuntimeProfile 期望组合与 ResolutionLock 权威。AKROVELA 可以实现固定版本的 SBRP 运行时能力，但不得在运行时侧解析依赖；离线执行不能削弱当前分区时的 fail-closed 或撤销规则。DIDACTOVELA 候选产物不会自动成为已批准的 Bundle。两者仅处于未发布的 `0.1.0` 引导阶段，没有功能集成，默认行为不变。参见[家族架构](https://github.com/axisvela/axisvela/blob/main/EDGE-AND-LEARNING-ARCHITECTURE.md)与[权威边界](https://github.com/axisvela/axisvela/blob/main/AUTHORITY-BOUNDARIES.md)。
+
 ## SYNDOVELA-open
 
 本仓库以 Apache-2.0 许可证发布，是 SYNDOVELA 的公共发行与集成入口。它包含开放协议和

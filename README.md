@@ -55,6 +55,15 @@ Runtime Protocol, an open and vendor-neutral contract.
 
 See [`docs/sbrp.md`](docs/sbrp.md) and [`docs/conformance.md`](docs/conformance.md).
 
+SYNDOVELA retains desired Bundle/RuntimeProfile composition and ResolutionLocks.
+AKROVELA may implement version-pinned SBRP runtime capabilities, never runtime-side
+resolution; offline execution cannot weaken current fail-closed partition or
+revocation rules. DIDACTOVELA candidates do not automatically become approved
+Bundles. Both products are unreleased `0.1.0` bootstrap only, with no functional
+integrations or default changes. See the
+[family architecture](https://github.com/axisvela/axisvela/blob/main/EDGE-AND-LEARNING-ARCHITECTURE.md)
+and [authority boundaries](https://github.com/axisvela/axisvela/blob/main/AUTHORITY-BOUNDARIES.md).
+
 ## SYNDOVELA-open
 
 This Apache-2.0 repository is the public distribution and integration surface
